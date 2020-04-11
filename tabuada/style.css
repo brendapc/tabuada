@@ -1,0 +1,31 @@
+body{
+    background-color: #eee273;
+    font: normal 10pt arial;
+    text-align: center;
+}
+header{
+    color: black;
+    text-align: center;
+}
+section{
+    border-radius: 30px;
+    background: #e0e0e0;
+    box-shadow: 2px 2px grey;
+    padding: 10px;
+    width: 500px;
+    margin: auto; /*centraizou*/
+
+}
+div{
+    /*border-radius: 30px;*/
+    font: normal 30px arial;
+}
+input{
+    font: normal 15px arial;
+}
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+
+}
